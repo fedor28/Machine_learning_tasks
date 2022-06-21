@@ -1,1 +1,1 @@
-# Machine_learning_tasks from Tinkoff ML course
+# Machine learning tasks from Tinkoff ML course
